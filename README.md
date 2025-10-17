@@ -56,7 +56,7 @@ cd your-repository
 
 ## 🛠️ Technologies Used
 
-Database: Oracle 10g
+Database: Oracle 10g , My SQL
 
 Backend: Java
 
