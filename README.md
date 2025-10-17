@@ -47,9 +47,9 @@ The report provides all the necessary information to fully understand how the pr
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/your-repository.git
-Navigate to the project directory:
-
-cd your-repository
+  Navigate to the project directory
+  
+    cd your-repository
 
 
 2. Follow the instructions in the report for setting up the database and running the project.
