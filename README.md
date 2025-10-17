@@ -7,7 +7,7 @@ Welcome to the **Freight Forwarder Management System (FFMS)** repository! This s
 **Course:** CSC2108 – Introduction to Database  
 **Semester:** Fall 2024–2025  
 **Section:** D  
-**Group:** [Your Group Number]
+
 
 ## Supervised by:
 - **Syed Nafiul Shefat**  
