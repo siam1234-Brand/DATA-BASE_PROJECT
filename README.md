@@ -61,4 +61,4 @@ Database: Oracle 10g
 Backend: Java
 
 ## 📜 License
-
+This project is for educational purposes under the AIUB Computer Introduction to Database. Feel free to fork and modify for your own learning and experimentation.
