@@ -2,6 +2,34 @@
 
 Welcome to the **Freight Forwarder Management System (FFMS)** repository! This system is designed to automate logistics operations, including shipment management, customer tracking, and payment processing, using modern technologies.
 
+### 🏫 American International University–Bangladesh (AIUB)
+**Department:** Computer Science  
+**Course:** CSC2108 – Introduction to Database  
+**Semester:** Fall 2024–2025  
+**Section:** D  
+**Group:** [Your Group Number]
+
+## Supervised by:
+- **Syed Nafiul Shefat**  
+  lecturer, Faculty, Department of Computer Science  
+  Email: [nafiul.shefat@aiub.edu](mailto:nafiul.shefat@aiub.edu)  
+  American International University–Bangladesh (AIUB)
+
+## Developed by:
+- **Mohammad Ali Masud**  
+  Email: [23-51676-2@student.aiub.edu](mailto:23-51676-2@student.aiub.edu)
+  
+- **Md. Mahabubur Rahaman Siam**  
+  Email: [23-51706-2@student.aiub.edu](mailto:23-51706-2@student.aiub.edu)
+  
+- **Shakila Sultana Eshita**  
+  Email: [23-51719-2@student.aiub.edu](mailto:23-51719-2@student.aiub.edu)
+
+- **Tawafiqur Rahman Mahir**  
+  Email: [23-51687-2@student.aiub.edu](mailto:23-51687-2@student.aiub.edu)
+
+---
+
 ## 📄 Project Report
 
 For a detailed understanding of the system, please read the [**Project Report PDF**](./DATA%20BASE_PROJECT_REPORT.pdf). It includes:
@@ -26,11 +54,11 @@ cd your-repository
 
 2. Follow the instructions in the report for setting up the database and running the project.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 Database: Oracle 10g
 
 Backend: Java
 
-📜 License
+## 📜 License
 
