@@ -61,4 +61,4 @@ Database: Oracle 10g , My SQL
 Backend: Java
 
 ## 📜 License
-This project is for educational purposes under the AIUB Computer Introduction to Database. Feel free to fork and modify for your own learning and experimentation.
+This project is developed for educational purposes under AIUB. Feel free to fork and modify for your own learning and experimentation. All rights reserved © INTRODUCTION TO DATABASE [D]_Project Team.
