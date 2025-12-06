@@ -9,6 +9,8 @@ Welcome to the **Freight Forwarder Management System (FFMS)** repository! This s
 **Section:** D  
 
 
+For More detailes And images refer to the [ProjectReport](./ProjectReport.pdf) included in this repository.
+
 ## Supervised by:
 - **Syed Nafiul Shefat**  
   lecturer, Faculty, Department of Computer Science  
