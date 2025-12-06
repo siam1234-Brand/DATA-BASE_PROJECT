@@ -9,7 +9,8 @@ Welcome to the **Freight Forwarder Management System (FFMS)** repository! This s
 **Section:** D  
 
 
-For More detailes And images refer to the [**Project Report**](/DATA_BASE_PROJECT_REPORT.pdf) included in this repository.
+For More detailes And images refer to the [**Project Report**]([/DATA_BASE_PROJECT_REPORT.pdf](https://github.com/siam1234-Brand/DATA-BASE_PROJECT/blob/b84ff7f185d35186514cfb7ffa442e83f8a7b085/DATA%20BASE_PROJECT_REPORT.pdf)) included in this repository.
+
 
 ## Supervised by:
 - **Syed Nafiul Shefat**  
